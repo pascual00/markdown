@@ -11,7 +11,7 @@
         * Idiomas y otros conocimientos
         * otros elementos
     * Utiliza una lista no ordenada para los datos personales.
-    * Agrega como enlaces, tu cuenta de GitHub, Docker Hub, linedIn y las que consideres profesionalmente necesarias.
+    * Agrega como enlaces, tu cuenta de GitHub, Docker Hub, linkedIn y las que consideres profesionalmente necesarias.
     * Realiza una tabla con el nivel de idiomas y conocimientos en distintos lenguajes de programación.
     * [aquí tienes unos tips sobre cómo elaborar un currículum](https://zety.es/blog/aptitudes-curriculum)
     * Puedes añadir cualquier elemento que crees necesario para dar énfasis, usando negrita, cursiva, etc...
